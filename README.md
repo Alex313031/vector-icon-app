@@ -1,6 +1,8 @@
 # Vector Icon App
 A basic [Demo](https://michaelwasserman.github.io/vector-icon-app) for Chromium's [vector icons](https://chromium.googlesource.com/chromium/src/+/master/components/vector_icons/README.md).
 
+Forked from https://github.com/michaelwasserman/vector-icon-app
+
 ## New Web Platform APIs Used
 
 Uses the [Native File System API](https://wicg.github.io/native-file-system).
